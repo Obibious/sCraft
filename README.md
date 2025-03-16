@@ -24,12 +24,13 @@ Le craft personnel se configure dans `sh.lua` via les variables :
 - `PersonalCategories` : Catégories disponibles
 - `personalCraftTitle` : Titre du menu
 
-### Craft Métier 
+### Craft Whitelist job et non whitelist
 Les crafts métiers se configurent dans `sh.lua` via la table `JobsCraftItems` avec :
 - Position du point de craft
 - Liste des items craftables
 - Catégories spécifiques au métier
 - Titre personnalisé
+
 
 ## Installation
 
